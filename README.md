@@ -16,8 +16,7 @@
 - 💬 Ask me about **Python,PowerBI,Sql,Nosql,Docker,Linux,Shell Scripting**
 
 - 📫 How to reach me **mohamedelmetwally998@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 

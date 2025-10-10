@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data warehouse and airflow**
 
-- 👯 I’m looking to collaborate on **Database Projects and ETl process**
+- 👯 I’m looking to collaborate on **Database Projects and ETL process Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeTOO98](https://github.com/MeTOO98)
 

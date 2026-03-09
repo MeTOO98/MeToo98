@@ -84,4 +84,3 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedelmetwally&label=Profile+Views&color=36BCF7&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"Data is the new oil — I'm here to refine it."</i></p>
